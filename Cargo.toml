@@ -8,4 +8,5 @@ ahash = "0.8.11"
 arrayvec = "0.7.6"
 derive_more = { version = "1.0.0", features = ["add", "add_assign"] }
 itertools = "0.13.0"
+memoize = "0.4.2"
 regex = "1.11.1"
